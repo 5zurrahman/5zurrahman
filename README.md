@@ -10,6 +10,6 @@
 - 🌱 I’m currently Doing B.tech CSE(AI&ML)
 - 🤔 I’m looking for help with Motivation
 - 💬 Ask me about Debugging
-- 📫 How to reach us **faizursafi212@gmail.com*
+- 📫 How to reach us **faizursafi212@gmail.com**
 - ⚡ Fun fact: !False
 
